@@ -1,7 +1,5 @@
 package com.adrec.model
 
-import java.time.Instant
-
 data class Ad(
     val id: Int,
     val title: String,
